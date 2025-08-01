@@ -193,3 +193,16 @@ main {
     padding: 0;
   }
 }
+
+.media-social{
+  display: inline-block;
+  background-color: purple;
+  color: #fff;
+  padding: 5px 8px;
+  margin: 10px 5px 0 5px;
+  border-radius: 5px;
+}
+
+.weight-event{
+  font-weight: 700;
+}
