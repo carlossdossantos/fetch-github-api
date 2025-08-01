@@ -44,7 +44,7 @@ async function getUserData(userName) {
 
     const eventsResponse = await getEvents(userName)
 
-    console.log(eventsResponse)
+    //console.log(eventsResponse)
 
     const repositoriesResponse= await getRepositories(userName)
 
